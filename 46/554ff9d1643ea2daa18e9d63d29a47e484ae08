@@ -1,0 +1,35 @@
+pkg/device-plugin/nvidiadevice/nvinternal/plugin/server_test.go
+  s_b03aec2b17bf4d::t_df18cea9eea504 1075-1078
+  s_b03aec2b17bf4d::t_58ca8430fae8bf 1051-1074,1079-1108
+pkg/device-plugin/nvidiadevice/nvinternal/plugin/server.go
+  s_b03aec2b17bf4d::t_9235757c13b72c 876-880
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "46554ff9d1643ea2daa18e9d63d29a47e484ae08",
+  "prompts": {},
+  "sessions": {
+    "s_b03aec2b17bf4d": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a956bca9f936b41dfd5713f",
+        "model": "glm-5.3__dev"
+      },
+      "human_author": "Woolgathererer <waterrulerule@gmail.com>",
+      "custom_attributes": {
+        "tool_type": "agent",
+        "external_session_id": "6a956bca9f936b41dfd5713f",
+        "tool_use_id": "6a981a3854122a2e0f348d02",
+        "tool_id": "Edit",
+        "runtime_client": "trae-tob-git-ai",
+        "dedupe_key": "6a956bca9f936b41dfd5713f:6a981a3854122a2e0f348d02:afterEdit:91623439",
+        "session_id": "6a956bca9f936b41dfd5713f",
+        "edit_kind": "file_edit",
+        "operation_id": "6a981a3854122a2e0f348d02",
+        "source_scene": "unknown",
+        "client_type": "ide"
+      }
+    }
+  }
+}
